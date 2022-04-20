@@ -1,0 +1,17 @@
+body {
+  background-color: antiquewhite;
+}
+h1,
+p,
+footer {
+  text-align: center;
+}
+a {
+  color: green;
+  margin: 8px;
+}
+img {
+  width: 350px;
+  display: block;
+  margin: 0% auto;
+}
